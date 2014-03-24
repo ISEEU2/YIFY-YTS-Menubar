@@ -1,4 +1,4 @@
-YIFY-YTS-Menubar
+Visit WEBSITE!
 ================
 
 Yify-Torrents / YTS Mac toolbar
